@@ -20,5 +20,6 @@
 	<input type="button" onclick="location.href='sessionDel.jsp'" value="세션 값 삭제" />
 	<input type="button" onclick="location.href='sessionInvalidate.jsp'" value="세션 초기화" />
 	<h3><%=name %></h3>
+	<p><a href="cookieTest.jsp">쿠키 테스트 </a></p>
 </body>
 </html>
