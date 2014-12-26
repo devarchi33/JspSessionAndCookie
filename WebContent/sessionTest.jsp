@@ -22,5 +22,6 @@
 	<h3><%=name %></h3>
 	<p><a href="cookieTest.jsp">쿠키 테스트 </a></p>
 	<p><a href="sessionLogin.jsp">세션 로그인 테스트 </a></p>
+	<p><a href="cookieExample.jsp">쿠키 예제 테스트 </a></p>
 </body>
 </html>
